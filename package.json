@@ -21,7 +21,7 @@
   "homepage": "https://github.com/chrisstanarsenault/travel-site#readme",
   "dependencies": {
     "fs-extra": "^8.1.0",
-    "lazysizes": "^5.2.0",
+    "lazysizes": "^5.2.1",
     "lodash": "^4.17.15",
     "normalize.css": "^8.0.1",
     "postcss-hexrgba": "^2.0.0"
